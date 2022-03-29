@@ -3,8 +3,6 @@
 
 
 ## I'm from Romania, I am 15 y/o, and I work as a fivem developer
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 Dm  on discord if you are interested in a colaboration.
 - 🥅 2022 Goals: Learn more about Java
