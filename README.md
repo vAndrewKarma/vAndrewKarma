@@ -2,7 +2,7 @@
 
 
 
-## I'm from Romania, I am 15 y/o, and I work as a fivem developer
+## I'm from Romania, I am 16 y/o, and I work as a fivem developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 Dm  on discord if you are interested in a colaboration.
 - 🥅 2022 Goals: Learn more about Java
