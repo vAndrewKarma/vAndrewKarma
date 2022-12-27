@@ -75,7 +75,8 @@
 
 
   <p align="center">
-  <i>&nbsp;"Anything that can go wrong will go wrong....."</i> 
+  <i>&nbsp;"
+If something can go wrong, it will, at the worst possible time..."</i> 
  </div>
  
   
