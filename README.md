@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">About Me</h3>
-<img align="right" alt="codin" src="https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif" width:"400" src= "https://media.tenor.com/2uyENRmiUt0AAAAS/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandrewkarma&label=Profile%20views&color=0e75b6&style=flat" alt="vandrewkarma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vandrewkarma" alt="vandrewkarma" /></a> </p>
