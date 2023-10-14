@@ -73,7 +73,7 @@
 
   <p align="center">
   <i>&nbsp;"
-If something can go wrong, it will, at the worst possible time..."</i> 
+80% of outcomes result from 20% of all causes for any given event..."</i> 
  </div>
  
   
