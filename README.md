@@ -57,7 +57,7 @@
 
 - 🛒 Product `FIVEM SCRIPTS, DISCORD BOTS, PANELS / SITES`
 
-- 💬 Email **karma.andrew16@gmail.com**
+- 💬 Email **andreivataselu42@gmail.com**
 
 - 📌 More soon...
 
