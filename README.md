@@ -49,6 +49,7 @@ Cloud-native lifecycle management platform for the automotive sector.
 - Microservices (Python, Go, TS) deployed to GKE  
 - RabbitMQ, MongoDB, CI/CD via GitHub Actions  
 - Secure auth, CSRF protection, RBAC, Prometheus + ELK logging
+- NLP with spaCy
 
 ---
 
