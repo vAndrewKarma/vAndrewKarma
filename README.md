@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Andrei Vataselu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10000&center=true&vCenter=true&pause=1000&lines=Full+Stack+Dev;Cloud-native;ML-powered+Apps;CI%2FCD+%7C+Clean+Code+%7C+Containers" alt="Typing Intro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=5000&center=true&vCenter=true&pause=1000&lines=Full+Stack+Dev;Cloud-native;ML-powered+Apps;" alt="Typing Intro">
 </p>
 
 ---
